@@ -63,34 +63,34 @@ section {
   position: sticky;
 }
 #s1 {
-  background-image: url(../wall5.jpg);
+  background-image: url(wall5.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: left;
   z-index: 1;
 }
 #s2 {
-  background-image: url(../wall3.jpg);
+  background-image: url(wall3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: right;
   z-index: 2;
 }
 #s3 {
-  background-image: url(../wall1.jpg);
+  background-image: url(wall1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: left;
   z-index: 3;
 }
 #s4 {
-  background-image: url(../wall4.jpg);
+  background-image: url(wall4.jpg);
   background-repeat: no-repeat;
   text-align: right;
   z-index: 4;
 }
 #s5 {
-  background-image: url(../wall2.jpg);
+  background-image: url(wall2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: left;
