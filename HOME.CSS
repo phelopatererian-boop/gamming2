@@ -96,11 +96,5 @@ section {
   text-align: left;
   z-index: 5;
 }
-#s6 {
-  background-image: url(../wall8.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  text-align: right;
-  z-index: 6;
-}
+
 /* --------------------------- */
