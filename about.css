@@ -46,10 +46,10 @@ main{
   transition: ease 0.3s all;
   animation: gtav 15s linear infinite;}
   @keyframes gtav {
-    0%{background-image:url(../wallpaperflare.com_wallpaper.jpg)}
-    30%{background-image:url(../wallpaperflare.com_wallpaper\ \(2\).jpg)}
-    60%{background-image:url(../wallpaperflare.com_wallpaper\ \(1\).jpg)}
-    100%{background-image:url(../wallpaperflare.com_wallpaper.jpg)}
+    0%{background-image:url(wallpaperflare.com_wallpaper.jpg)}
+    30%{background-image:url(wallpaperflare.com_wallpaper\ \(2\).jpg)}
+    60%{background-image:url(wallpaperflare.com_wallpaper\ \(1\).jpg)}
+    100%{background-image:url(wallpaperflare.com_wallpaper.jpg)}
   }
   div{
     display: flex;
